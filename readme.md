@@ -9,4 +9,3 @@
 
 想系统学习推荐系统，请关注我的专栏：
 
-[《推荐系统36式》](https://time.geekbang.org/column/intro/74)
